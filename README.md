@@ -1,6 +1,6 @@
 # Smart File Sorter
 
-v1.0.1
+version 1.0.1
 
 Automatically organize files by extension.
 
